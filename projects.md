@@ -1,6 +1,6 @@
-[Home](https://github.com/MooDevArts/Humber/blob/main/Web%20Dev/Courses/Workshops/Tasks/4/Markdown%20Portfolio/index.md)
- | [Projects](https://github.com/MooDevArts/Humber/blob/main/Web%20Dev/Courses/Workshops/Tasks/4/Markdown%20Portfolio/projects.md)
- | [Contact](https://github.com/MooDevArts/Humber/blob/main/Web%20Dev/Courses/Workshops/Tasks/4/Markdown%20Portfolio/contact.md)
+[Home](./index.md)
+ | [Projects](./projects.md)
+ | [Contact](./contact.md)
 
 # My Projects
 
